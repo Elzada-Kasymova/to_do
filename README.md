@@ -72,8 +72,8 @@ This project structure and workflow will help organize your code and make it eas
 1. **Clone the Repository**:
 
 ```bash
-git clone https://github.com/your-username/backend-todo-app.git
-cd backend-todo-app
+git clone https://github.com/Elzada-Kasymova/to_do.git
+cd to_do
 ```
 
 2. **Generate the Prisma Client**:
