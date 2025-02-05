@@ -116,7 +116,7 @@ If you want to boot it up without it commandeering your terminal (you'll have to
 
 9. **Access the App**:
 
-Open `http://localhost:5003` (or `localhost:3000` if changed) in your browser to see the frontend. You can register, log in, and manage your todo list from there.
+Open `http://localhost:5005` in your browser to see the frontend. You can register, log in, and manage your todo list from there.
 
 ## Emulating HTTP Requests (REST Client)
 
@@ -138,6 +138,13 @@ The `todo-app.rest` file includes requests for:
 2. Open `todo-app.rest`.
 3. Run the requests by clicking on the "Send Request" link above each block of HTTP code.
 4. Make sure to copy the token from the login response and replace `{{token}}` with the actual JWT token for protected routes.
+
+## How It Looks
+
+![Picture of site](./images/picture1.png)
+![Picture of site](./images/picture2.png)
+
+
 
 ## Conclusion
 
